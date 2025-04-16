@@ -2,7 +2,7 @@
 
 <h1 align="center" style="display:flex; flex-direction: row; justify-content: center; align-items: center">
 
-<img src="img/rust.png" height="100" align="center" alt="Rust" title="Rust">
+<img src="img/rust.svg" height="100" align="center" alt="Rust" title="Rust">
 <img src="img/beecrowd.webp" height="140" align="center" alt="Beecrowd" title="Beecrowd">
 <img src ="img/codewars.webp" height="125" align="center" alt="codewars" title="CodeWars">
 <img src ="img/leetcode.webp" height="60" align="center" alt="leetcode" title="LeetCode">
