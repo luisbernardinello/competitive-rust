@@ -1,0 +1,10 @@
+[package]
+name = "competitive-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "leetcode_001"
+path = "src/leetcode/problem_001_two_sum.rs"
+
+[dependencies]
