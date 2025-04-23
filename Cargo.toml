@@ -7,4 +7,8 @@ edition = "2021"
 name = "leetcode_001"
 path = "src/leetcode/problem_001_two_sum.rs"
 
+[[bin]]
+name = "beecrowd_1041"
+path = "src/beecrowd/problem_1041_coordinates_of_a_point.rs"
+
 [dependencies]

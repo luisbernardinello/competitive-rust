@@ -2,7 +2,7 @@
 
 # check if the correct number of arguments is provided
 if [ "$#" -ne 3 ]; then
-    echo "Uso: $0 <plataforma> <número> <nome>"
+    echo "Use: $0 <platform> <number> <name>"
     exit 1
 fi
 
