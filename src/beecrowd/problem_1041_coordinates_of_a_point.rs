@@ -1,5 +1,5 @@
 use std::io;
-
+//https://judge.beecrowd.com/pt/problems/view/1041
 fn main() {
     let mut input = String::new();
     io::stdin().read_line(&mut input).unwrap();

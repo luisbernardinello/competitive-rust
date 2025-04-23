@@ -11,4 +11,9 @@ path = "src/leetcode/problem_001_two_sum.rs"
 name = "beecrowd_1041"
 path = "src/beecrowd/problem_1041_coordinates_of_a_point.rs"
 
+[[bin]]
+name = "codewars_7001"
+path = "src/codewars/problem_7001_sort_rectangles_and_circles_by_area_2.rs"
+
 [dependencies]
+either = "1.15.0"

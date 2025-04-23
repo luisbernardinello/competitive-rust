@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/two-sum/description/
 fn main() {
     let nums = vec![2, 7, 11, 15];
     let target = 9;
